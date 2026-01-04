@@ -1,0 +1,27 @@
+# ACE Model - Complete Usage Guide
+
+This document provides comprehensive documentation for the ACE (Architect in Coupled Ecosystem) model reproducibility package.
+
+## Table of Contents
+1. [Installation](#installation)
+2. [Quick Start](#quick-start)
+3. [Core Components](#core-components)
+4. [Reproducing Manuscript Results](#reproducing-manuscript-results)
+5. [API Reference](#api-reference)
+6. [Troubleshooting](#troubleshooting)
+7. [Extending the Model](#extending-the-model)
+
+## Installation
+
+### Requirements
+- Python 3.9 or higher
+- pip or conda package manager
+
+### Method 1: pip
+```bash
+# Clone repository
+git clone https://github.com/username/ACE-model-reproducibility.git
+cd ACE-model-reproducibility
+
+# Install dependencies
+pip install -r requirements.txt

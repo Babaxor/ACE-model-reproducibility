@@ -1,0 +1,21 @@
+{
+  "parameters": {
+    "a_tilde": 1.0,
+    "b": 0.2,
+    "gamma": 0.5,
+    "p": 0.7,
+    "c": 1.0
+  },
+  "L": 0.3708860759493671,
+  "U": 2.833333333333333,
+  "final_state": {
+    "y_T": 3.3892280410840985e-45,
+    "y_V": 5.894770309846602e-27,
+    "V": 0.4000000000000013
+  },
+  "files": {
+    "trajectory": "E:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python311\\data\\trajectory.csv",
+    "time_series_png": null,
+    "stability_png": null
+  }
+}
